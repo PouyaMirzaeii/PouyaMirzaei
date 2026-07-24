@@ -40,8 +40,8 @@
 
 <div align="center">
 
-![Pouya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PouyaMirzaei&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PouyaMirzaei&layout=compact&theme=dark)
+![Pouya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PouyaMirzaeii&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PouyaMirzaeii&layout=compact&theme=dark)
 
 </div>
 
